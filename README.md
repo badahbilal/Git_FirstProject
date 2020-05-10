@@ -1,2 +1,2 @@
 # Git_FirstProject
-This is my first repositry in github
+This is my first repository in github
